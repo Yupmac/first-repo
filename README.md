@@ -1,6 +1,5 @@
 # first-repo
 
-Im 36 in 2022, i wanna go KAKAO.
 This repo is to learn git.
 
 ## Index
@@ -18,14 +17,14 @@ $ python main.py
 
 ```shell
 $ npm install
-$npm start
+$ npm start
 ```
 
 ## Formula
 
 $$ y=x+1 $$
 
-Or, You can emphasize formula like $ y=x+1 $ .
+Or, You can emphasize formula like $ y=x+1 $.
 
 
 
